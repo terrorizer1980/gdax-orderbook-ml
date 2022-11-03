@@ -31,7 +31,7 @@ jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.2.3
 jupyter-console==6.0.0
-jupyter-core==4.4.0
+jupyter-core==4.11.2
 Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
@@ -99,3 +99,4 @@ widgetsnbextension==3.4.2
 win-inet-pton==1.0.1
 wincertstore==0.2
 wrapt==1.10.11
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
