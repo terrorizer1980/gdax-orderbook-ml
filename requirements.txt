@@ -9,7 +9,7 @@ certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
 colorama==0.3.9
-cryptography==2.3.1
+cryptography==3.2
 cryptography-vectors==2.3.1
 cycler==0.10.0
 Cython==0.29
@@ -36,7 +36,7 @@ Keras==2.2.4
 Keras-Applications==1.0.6
 Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
-lxml==4.2.5
+lxml==4.9.1
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==3.0.0
