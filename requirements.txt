@@ -45,7 +45,7 @@ mkl-fft==1.0.6
 mkl-random==1.0.1
 more-itertools==4.3.0
 mpl-finance==0.10.0
-nbconvert==5.3.1
+nbconvert==7.17.0
 nbformat==4.4.0
 notebook==5.7.4
 numpy==1.15.2
@@ -57,7 +57,7 @@ pickleshare==0.7.5
 plotly==3.3.0
 prometheus-client==0.4.0
 prompt-toolkit==2.0.5
-protobuf==3.6.0
+protobuf==6.33.5
 pyarrow==0.9.0
 pycparser==2.19
 Pygments==2.2.0
